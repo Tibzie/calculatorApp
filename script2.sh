@@ -1,4 +1,4 @@
-cho "start the process"
+echo "start the process"
 ls
 cp /temp/shared/java.tar.gz /opt
 cp /temp/shared/maven.tar.gz /opt
